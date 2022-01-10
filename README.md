@@ -15,4 +15,4 @@ Reorganized and annotated style sheet </br>
 https://agpritts.github.io/challenge1-code-refactor/
 
 ## Contribution
-Adam P
+Adam P.
