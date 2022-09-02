@@ -1,4 +1,4 @@
-# Challenge 1: Code Refactor
+# ✍️ HTML/CSS Code Refactor
 
 ## Changes Made
 Renamed div elements to appropriate elements (nav, header, section, article, etc.) </br>
